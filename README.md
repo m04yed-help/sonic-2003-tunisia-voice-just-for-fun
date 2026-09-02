@@ -32,6 +32,14 @@ This project aims to re-imagine Sonic Adventure with local voice acting, blendin
 ---
 
 ## ⚙️ How to Try It
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+1. **Download the real game:**
+the real game is paid so download it from here : https://www.wifi4games.com/pc_games/Sonic.Adventure.DX.2003.html
+2. **RUN THE INSTALLER:**
+3. **JUST REPLACE THE FILES:**
+replace the files in the github by the files in /MYT-SADX/system/sounddata/voice_us/
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3dfcd93f-2daf-4109-806b-6a8e9070b823" />
+
+
+
+
+**ENJOYYYYYY<3**
