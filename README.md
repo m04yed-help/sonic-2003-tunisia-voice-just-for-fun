@@ -6,6 +6,9 @@ A custom fan project bringing the classic **Sonic Adventure (2003)** experience 
 
 ---
 
+read all this for better impression:
+
+
 ## 📌 Project Overview
 This project aims to re-imagine Sonic Adventure with local voice acting, blending classic nostaglic gameplay with Tunisian humor and dialogue. 
 
@@ -43,3 +46,5 @@ replace the files in the github by the files in /MYT-SADX/system/sounddata/voice
 
 
 **ENJOYYYYYY<3**
+feel free to contatct me at any time to share your feedback-such as constructive criticism and impressions
+i will complete all the missions of the game over time.
